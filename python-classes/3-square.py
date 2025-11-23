@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""This module defines a Square class for representing squares with size validation and area computation."""
-# ^^^ This is the MODULE docstring
+"""Module defining a Square class with size validation and area calculation."""
+
 
 class Square:
     """Defines a square with a private size attribute, getter/setter,
