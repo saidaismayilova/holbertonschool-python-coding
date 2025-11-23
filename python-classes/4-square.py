@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """4-square.py"""
 
+
 class Square:
     """Defines a square with private size, getter/setter, area, and print"""
 

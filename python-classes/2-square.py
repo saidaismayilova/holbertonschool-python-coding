@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """2-square.py"""
 
+
 class Square:
     """Defines a square with private size and area computation"""
 
