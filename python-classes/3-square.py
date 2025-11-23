@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+
+
 class Square:
     """Defines a square with a private size attribute, getter/setter,
     and an area calculation method."""
